@@ -36,3 +36,4 @@ jobs:
           echo "module.exports = { serviceAccount }" >> credentials.js
           npm install
           npm run build
+          npm run deploy
