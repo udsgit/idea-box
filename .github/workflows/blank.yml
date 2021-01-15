@@ -34,4 +34,4 @@ jobs:
           echo "const serviceAccount = " > credentials.js
           echo $FIREBASE_SERVICE_ACCOUNT >> credentials.js
           echo "module.exports = { serviceAccount }" >> credentials.js
-          cat credentials.js
+          npm run build
