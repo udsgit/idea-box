@@ -31,5 +31,5 @@ jobs:
         run: |
           cd $GITHUB_WORKSPACE
           ls
-          cat credentials.js
           echo 'const serviceAccount = $FIREBASE_SERVICE_ACCOUNT; module.exports = { serviceAccount }' > credentials.js
+          cat credentials.js
