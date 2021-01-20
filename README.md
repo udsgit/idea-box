@@ -1,6 +1,9 @@
 # idea-box
 
-## Setup.
+## Demo
+The app is deployed [Here](https://heuristic-morse-f2ef21.netlify.app);
+
+## Setup
 
 Rename ".env.local.example" to ".env.local" and replace the values by your firebase configuration.
 
