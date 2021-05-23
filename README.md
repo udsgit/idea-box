@@ -1,6 +1,6 @@
 # **Vue idea box**
 
-It is an idea management system. People can view the ideas created by the community, and if they log in they can vote for them and create their own. ✍💡🗒
+It is an idea management system. People can view the ideas created by the community, and if they log in they can vote for them and create their own ✍💡🗒.
 
 ## **Table of contents**
 
@@ -56,7 +56,7 @@ VUE_APP_FIREBASE_APP_ID=YOUR_APP_ID
 2. Clone/Download the repository.
 
 ```console
-git clone https://github.com/udsgit/idea-box
+git clone https://github.com/udsgit/vue-idea-box
 ```
 
 3. You may have to install the packages with **NPM**.
