@@ -44,7 +44,7 @@ You can try it using the [Demo](https://vue-idea-box.netlify.app/)
 
 1. Rename ".env.local.example" to ".env.local" and replace the values by your firebase configuration.
 
-```
+```console
 VUE_APP_FIREBASE_API_KEY=YOUR_KEY
 VUE_APP_FIREBASE_AUTH_DOMAIN=YOUR_AUTH_DOMAIN
 VUE_APP_FIREBASE_PROJECT_ID=YOUR_PROJECT_ID
