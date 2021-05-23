@@ -28,9 +28,9 @@ You can try it using the [Demo](https://vue-idea-box.netlify.app/)
 
 ## **Screenshots**
 
-> <img src="images_repo/unlogged.jpg" width="300"/><br><i>Index</i>
+> <img src="images_repo/unlogged.jpg" width="300"/><br><i>Index unlogged</i>
 
-> <img src="images_repo/logged.jpg" width="300"/><br><i>Dynamic route</i>
+> <img src="images_repo/logged.jpg" width="300"/><br><i>Index logged</i>
 
 ## **Technologies**
 
