@@ -1,7 +1,7 @@
 # idea-box
 
 ## Demo
-The app is deployed [Here](https://heuristic-morse-f2ef21.netlify.app).
+The app is deployed [Here](https://vue-idea-box.netlify.app/).
 
 ## Setup
 
